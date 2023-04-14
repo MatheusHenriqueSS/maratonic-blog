@@ -8,7 +8,6 @@ blog({
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
-  avatar: "https://ibb.co/JzP1rbR",
   avatarClass: "rounded-full",
   author: "Matheus Henrique",
   lang: "pt"
