@@ -9,7 +9,7 @@ blog({
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
   avatarClass: "rounded-full",
-  author: "Matheus Henrique",
+  author: "MaratonIC",
   lang: "pt"
 
   // middlewares: [

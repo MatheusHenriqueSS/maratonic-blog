@@ -1,6 +1,7 @@
 ---
 title: Como usar o codeforces
-publish_date: 2023-04-13
+publish_date: 2023-04-14
+author: Matheus Henrique
 ---
 
 Olá, jovem gafanhoto!
@@ -28,3 +29,14 @@ Passo 8: Volte para o Problema e no lado direito da janela você verá uma caixa
 Passo 9: Sua solução agora está na fila e o Codeforces vai verificar a validade da solução executando vários casos de teste. Se sua solução passar em todos os casos de teste, você receberá o veredicto "Accepted". Você pode verificar o status de suas submissões através do botão "My Submissions" na barra de navegação.
 
 Passo 10: Resolva o máximo de Problemas que puder dentro do limite de tempo estipulado. Você também pode ver a classificação durante e após o contest.
+
+### #ficaadica
+
+**Pra quem for usar python**
+
+ Na hora de submeter, envie o problema em _pypy_ no lugar de _python_ na hora de selecionar em qual linguagem subemeter no codeforces.
+ Dessa forma, seu problema geralmente vai rodar mais rápido.
+
+ **Status**
+
+ Agarrou durante o contest? Dê uma olhada na aba _status_ do contest, nela dá pra ver quais problemas os outros participantes estão conseguindo resolver. Aí dá pra ter uma ideia dos problemas mais "fáceis" pra continuar a resolver na competição.
